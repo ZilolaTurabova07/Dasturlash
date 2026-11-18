@@ -1,2 +1,2 @@
-# Dasturlash
+Salomatlik_dasturi cs# Dasturlash
 
